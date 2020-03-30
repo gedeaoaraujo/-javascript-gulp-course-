@@ -1,0 +1,10 @@
+node_modules
+__MACOSX
+.DS_Store
+javascript/basico/build
+typeScript/build
+css/build
+spa/build
+javascript/build
+spa/package-lock.json
+package-lock.json
